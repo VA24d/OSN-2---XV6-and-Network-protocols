@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mini-project consists of two main parts:
+This mini-project consisted of two main parts:
 
 1. XV6 File Management
 2. Networking
